@@ -9,7 +9,7 @@ Source0:	http://www.jnrowe.ukfsn.org/files/bfm-%{version}.tar.bz2
 # Source0-md5:	91055537af29830a4852d400a43a0c45
 URL:		http://www.jnrowe.ukfsn.org/projects/bfm.html
 BuildRequires:	gkrellm-devel >= 2.0
-BuildRequires:	gtk+2-devel >= 2.0.0
+BuildRequires:	gtk+2-devel >= 1:2.0.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
