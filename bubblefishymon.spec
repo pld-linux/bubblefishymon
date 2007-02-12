@@ -1,5 +1,5 @@
 Summary:	A dockapp-style system load monitor
-Summary(pl.UTF-8):   Dokowalny monitor obciążenia systemu
+Summary(pl.UTF-8):	Dokowalny monitor obciążenia systemu
 Name:		bubblefishymon
 Version:	0.6.3
 Release:	1
@@ -26,7 +26,7 @@ nową funkcjonalność.
 
 %package -n gkrellm-bubblefishymon
 Summary:	Gkrellm bubblefishymon module
-Summary(pl.UTF-8):   Moduł bubblefishymon dla gkrellm
+Summary(pl.UTF-8):	Moduł bubblefishymon dla gkrellm
 Group:		X11/Applications
 Requires:	gkrellm
 
