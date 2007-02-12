@@ -1,5 +1,5 @@
 Summary:	A dockapp-style system load monitor
-Summary(pl):	Dokowalny monitor obci±¿enia systemu
+Summary(pl.UTF-8):   Dokowalny monitor obciÄ…Å¼enia systemu
 Name:		bubblefishymon
 Version:	0.6.3
 Release:	1
@@ -18,15 +18,15 @@ This program is a dockapp-style CPU, memory, swap and load average
 monitor. Based on the GNOME BubbleMon applet, this program has been
 considerably improved. Many new features have been added.
 
-%description -l pl
-Ten program jest dokowalnym monitorem obci±¿enia procesora, pamiêci,
+%description -l pl.UTF-8
+Ten program jest dokowalnym monitorem obciÄ…Å¼enia procesora, pamiÄ™ci,
 partycji wymiany oraz load average. Jest on oparty na aplecie GNOME
 BubbleMon, ale od tego czasu wprowadzono wiele poprawek oraz dodano
-now± funkcjonalno¶æ.
+nowÄ… funkcjonalnoÅ›Ä‡.
 
 %package -n gkrellm-bubblefishymon
 Summary:	Gkrellm bubblefishymon module
-Summary(pl):	Modu³ bubblefishymon dla gkrellm
+Summary(pl.UTF-8):   ModuÅ‚ bubblefishymon dla gkrellm
 Group:		X11/Applications
 Requires:	gkrellm
 
@@ -36,11 +36,11 @@ monitor. Based on the GNOME BubbleMon applet, this program has been
 considerably improved. Many new features have been added. This is
 gkrellm version of bubblefishymon.
 
-%description -n gkrellm-bubblefishymon -l pl
-Ten program jest dokowalnym monitorem obci±¿enia procesora, pamiêci,
+%description -n gkrellm-bubblefishymon -l pl.UTF-8
+Ten program jest dokowalnym monitorem obciÄ…Å¼enia procesora, pamiÄ™ci,
 partycji wymiany oraz load average. Jest on oparty na aplecie GNOME
 BubbleMon, ale od tego czasu wprowadzono wiele poprawek oraz dodano
-now± funkcjonalno¶æ. Ten pakiet zawiera wersjê programu dla gkrellm.
+nowÄ… funkcjonalnoÅ›Ä‡. Ten pakiet zawiera wersjÄ™ programu dla gkrellm.
 
 %prep
 %setup -q -n bfm-%{version}
